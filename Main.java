@@ -555,6 +555,7 @@ public class Main{
         }
     }
 
+    //provides the admin with the options so that they can access their privileges
     public void useAdminAccount(String admin_id) throws Exception{
         try{
             int choice =0;
@@ -666,6 +667,7 @@ public class Main{
         }
     }
 
+    //lets admin users search for bills owed by a given member and remove the bill once its paid
     public void processBills() throws Exception{
         try{
 
@@ -712,6 +714,7 @@ public class Main{
         }
     }
 
+    //lets admin users book a room
     public void manageRooms() throws Exception{
         try{
             System.out.println("Here is a list of rooms at the gym");
@@ -761,6 +764,7 @@ public class Main{
         }
     }
 
+    // give the admin the dates when the machines were last maintained and lets them update their last maintenance day
     public void updateEquipment() throws Exception{
         try {
             System.out.println("Here are the machines with their most recent updates");
