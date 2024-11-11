@@ -1,7 +1,7 @@
 Gym database manager
 
 This program is written in java and uses an postresql database. It can be used by an administrator, client and trainer.
-It provides them with the ability to schedule work hours, appointments. book and sessions rooms and keep track of their fitness goals.
+It provides them with the ability to schedule work hours, appointments. book sessions or rooms and keep track of their fitness goals.
 
 Instructions
 
