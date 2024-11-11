@@ -1,11 +1,4 @@
 import com.sun.jdi.event.ExceptionEvent;
-/*
-    Adam Miles
-    101266150
-    COMP 3005 final project version 2
- */
-
-
 import java.sql.*;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
